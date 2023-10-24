@@ -1,0 +1,21 @@
+{
+  "Book": "Book a Trip",
+  "From": "From",
+  "To": "To",
+  "Date": "Trip Date",
+  "Class": "Ticket Class",
+  "Economy": "Economy",
+  "Business": "Business",
+  "First": "First",
+  "Type": "Trip Type",
+  "Oneway": "One-way",
+  "Round": "Round-trip",
+  "Adults": "Adults",
+  "Children": "Children",
+  "Submit": "Submit",
+  "blogs": "Blogs",
+  "blog1": "Blog 1",
+  "blog2": "Blog 2",
+  "blog3": "Blog 3",
+  "description": "Discover the world with our travel agency blog. Get inspired, find insider tips, and plan your next unforgettable adventure."
+}
